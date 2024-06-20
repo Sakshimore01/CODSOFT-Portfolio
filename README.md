@@ -1,1 +1,1 @@
-# CODSOFT-Portfolio
+Welcome to my Portfolio Website! This project showcases my skills, projects, and professional experience. It is built with HTML, CSS, and JavaScript to provide a responsive, user-friendly, and visually appealing presentation of my work.
